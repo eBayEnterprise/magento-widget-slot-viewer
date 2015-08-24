@@ -3,7 +3,7 @@
 	"description": "Magento Widget Slot Viewer",
 	"license": "OSL-3.0",
 	"authors": [
-		{ "name": "Scott Buchanan", "email": "sbuchanan@ebay.com" },
+		{ "name": "Scott Buchanan", "email": "sbuchanan@ebay.com" }
 	],
-	"type": "magento-module",
+	"type": "magento-module"
 }

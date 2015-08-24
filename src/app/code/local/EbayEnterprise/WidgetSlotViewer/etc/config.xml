@@ -32,11 +32,11 @@ http://opensource.org/licenses/osl-3.0.php
 		</models>
 	</global>
 
-    <default>
-        <dev>
-            <debug>
-                <widgetslotviewer_enable>0</widgetslotviewer_enable>
-            </debug>
-        </dev>
-    </default>
+	<default>
+		<dev>
+			<debug>
+				<widgetslotviewer_enable>0</widgetslotviewer_enable>
+			</debug>
+		</dev>
+	</default>
 </config>

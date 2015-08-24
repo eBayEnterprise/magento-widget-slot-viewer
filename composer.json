@@ -1,0 +1,9 @@
+{
+	"name": "ebayenterprise/widget-slot-viewer",
+	"description": "Magento Widget Slot Viewer",
+    "license": "OSL-3.0",
+    "authors": [
+        { "name": "Scott Buchanan", "email": "sbuchanan@ebay.com" },
+	],
+	"type": "magento-module",
+}

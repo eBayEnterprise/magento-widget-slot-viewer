@@ -1,0 +1,7 @@
+# Core
+src/app/code/local/EbayEnterprise/* app/code/local/EbayEnterprise/
+src/app/etc/modules/*.xml app/etc/modules/
+
+# Layout
+src/app/design/frontend/base/default/template/* app/design/frontend/base/default/template/
+

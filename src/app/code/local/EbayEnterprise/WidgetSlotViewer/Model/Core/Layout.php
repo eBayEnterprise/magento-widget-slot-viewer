@@ -13,8 +13,16 @@
  * @license     http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
  */
 
-class EbayEnterprise_WidgetSlotViewer_Model_Core_Layout extends Mage_Core_Model_Layout {
+class EbayEnterprise_WidgetSlotViewer_Model_Core_Layout extends Mage_Core_Model_Layout
+{
 
+	/**
+	 * Add block object to layout based on xml node data
+	 *
+	 * @param Varien_Simplexml_Element $node
+	 * @param Varien_Simplexml_Element $parent
+	 * @return Mage_Core_Model_Layout
+	 */
 	protected function _generateBlock($node, $parent)
 	{
 		$viewerEnabled = Mage::getStoreConfigFlag('dev/debug/widgetslotviewer_enable');

@@ -4,4 +4,3 @@ src/app/etc/modules/*.xml app/etc/modules/
 
 # Layout
 src/app/design/frontend/base/default/template/* app/design/frontend/base/default/template/
-

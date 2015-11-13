@@ -16,7 +16,7 @@ http://opensource.org/licenses/osl-3.0.php
 	<modules>
 		<EbayEnterprise_WidgetSlotViewer>
 			<active>true</active>
-			<codePool>local</codePool>
+			<codePool>community</codePool>
 			<depends>
 				<Mage_Core />
 			</depends>

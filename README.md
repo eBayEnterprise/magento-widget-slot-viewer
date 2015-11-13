@@ -10,6 +10,10 @@ To turn on the widget visualizer, choose System > Configuration from the main me
 navigate in the sidebar to Advanced > Developer. From the "Debug" panel on this page
 you can then set "Widget Slot Viewer Enabled" to "Yes" or "No."
 
+Once enabled, you may browse to any page on the front end website to see slot placeholders
+indicating the name of all available slots. (Depending on your store configuration, you
+may need to flush or disable caches to see the slots after enabling.)
+
 Naturally, this should only be enabled in a pre-production environment.
 
 ## Caveat
